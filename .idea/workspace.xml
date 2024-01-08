@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcf0890-7cd5-4838-9cb8-63b6f1673213" name="Changes" comment="Concluí a aula 01 e agora estou mergulhando em Java!">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Soma.java" afterDir="false" />
+    <list default="true" id="8fcf0890-7cd5-4838-9cb8-63b6f1673213" name="Changes" comment="Criando a classe soma, e imprimindo a soma de 10 + 5.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Leitura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PrimeiraClasse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,40 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Leitura">
+    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Condicional" />
+      <module name="primeiroprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Leitura" />
+      <module name="primeiroprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Leitura" />
+        <item itemvalue="Application.Condicional" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704747920095</updated>
-      <workItem from="1704747922670" duration="1828000" />
+      <workItem from="1704747922670" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="Concluí a aula 01 e agora estou mergulhando em Java!">
       <created>1704748814539</created>
@@ -65,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704748814539</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criando a classe soma, e imprimindo a soma de 10 + 5.">
+      <created>1704749797003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704749797003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Concluí a aula 01 e agora estou mergulhando em Java!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Concluí a aula 01 e agora estou mergulhando em Java!" />
+    <MESSAGE value="Criando a classe soma, e imprimindo a soma de 10 + 5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a classe soma, e imprimindo a soma de 10 + 5." />
   </component>
 </project>
